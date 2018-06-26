@@ -1,0 +1,47 @@
+172.16.0.2
+8080
+
+3298456
+
+https://d7.usercdn.com/d/qilywykut52fvxij4pqy7eqblecmv5kb3tda5nd2hj4lc73f5lrmc3j3/Glass%20Wire%20Pro.1.1.21.Beta%20+%20_.rar
+
+
+
+
+netsh wlan show network mode=bssid
+netsh wlan connect name=wifi name
+netsh wlan disconnect
+
+
+
+Google DNS:
+
+Replace those addresses with the IP addresses of the Google DNS servers in step 6.
+
+For IPv4: 8.8.8.8 and/or 8.8.4.4.
+
+For IPv6: 2001:4860:4860::8888 and/or 2001:4860:4860::8844
+
+
+
+
+
+Highlight the Internet Protocol Version 4 (TCP/IPv4) and click on Properties.
+
+Now choose the following DNS server addresses to get a faster internet speed:
+
+Preferred DNS server: 208.67.222.222
+Alternate DNS server: 208.67.220.220
+
+To Configure IPv6:
+
+Highlight the Internet Protocol Version 6 (TCP/IPv6) and click on Properties, and choose the following DNS server addresses:
+
+Preferred DNS server: 2620:0:ccc::2
+Alternate DNS server: 2620:0:ccd::2
+
+
+***********************
+***********************
+
+
